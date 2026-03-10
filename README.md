@@ -1,1 +1,1 @@
-# hackerrank-easy-java
+# hackerrank-easy
